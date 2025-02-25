@@ -169,6 +169,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PD-Ms6828-69_p154"
+                ]
+            },
+            "height": 3952,
+            "width": 2417,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 76,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 152,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 303,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 605,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1209,
+                                                "height": 1976
+                                            },
+                                            {
+                                                "width": 2417,
+                                                "height": 3952
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2417,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3952,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
