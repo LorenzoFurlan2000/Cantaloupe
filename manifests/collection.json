@@ -1,0 +1,13 @@
+{
+  "id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in LorenzoFurlan2000/Cantaloupe project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/manifests/manifestCamilla.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
