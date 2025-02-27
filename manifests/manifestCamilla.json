@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/manifests/manifestCamilla.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://7d9f9d3d-0603-4e65-ba17-9f165b8638f4",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://740afb33-8aa1-4969-96fb-1563032e4f4c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3952,
+      "width" : 2417,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e0801cc0-149d-4e4f-9126-0cbad8e98c5f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lorenzofurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lorenzofurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3952,
+          "width" : 2417
+        },
+        "on" : "http://740afb33-8aa1-4969-96fb-1563032e4f4c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://67357769-bffa-431c-b5d6-a2a48d4e7cb8",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3952,
+      "width" : 2417,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://694064df-0798-46ae-8555-ad02dce35231",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lorenzofurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lorenzofurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3952,
+          "width" : 2417
+        },
+        "on" : "http://67357769-bffa-431c-b5d6-a2a48d4e7cb8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dd7e2ad1-2ac0-4811-b785-178e9c5dac90",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3952,
+      "width" : 2417,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1229b4ef-fb12-417f-a6b0-324a3a23e4f9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lorenzofurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lorenzofurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3952,
+          "width" : 2417
+        },
+        "on" : "http://dd7e2ad1-2ac0-4811-b785-178e9c5dac90"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
