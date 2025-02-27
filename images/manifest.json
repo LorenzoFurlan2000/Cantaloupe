@@ -9,26 +9,26 @@
     },
     "items": [
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/",
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "santo1530big"
+                    "PD-Ms6828-69_p154"
                 ]
             },
-            "height": 595,
-            "width": 400,
+            "height": 3952,
+            "width": 2417,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/AnnoPage",
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/",
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/full/full/0/default.jpg",
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -49,41 +49,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 13,
-                                                "height": 19
+                                                "width": 76,
+                                                "height": 124
                                             },
                                             {
-                                                "width": 25,
-                                                "height": 38
+                                                "width": 152,
+                                                "height": 247
                                             },
                                             {
-                                                "width": 50,
-                                                "height": 75
+                                                "width": 303,
+                                                "height": 494
                                             },
                                             {
-                                                "width": 100,
-                                                "height": 149
+                                                "width": 605,
+                                                "height": 988
                                             },
                                             {
-                                                "width": 200,
-                                                "height": 298
+                                                "width": 1209,
+                                                "height": 1976
                                             },
                                             {
-                                                "width": 400,
-                                                "height": 595
+                                                "width": 2417,
+                                                "height": 3952
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 400,
-                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big",
+                                        "width": 2417,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 595,
+                                        "height": 3952,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/"
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/"
                         }
                     ]
                 }
@@ -171,26 +171,26 @@
             ]
         },
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/",
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "PD-Ms6828-69_p154"
+                    "PD-Ms6828-69_p156"
                 ]
             },
             "height": 3952,
             "width": 2417,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/AnnoPage",
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/",
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/full/full/0/default.jpg",
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -237,7 +237,7 @@
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
                                         "width": 2417,
-                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154",
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156",
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "height": 3952,
                                         "@type": "ImageService2"
@@ -245,7 +245,169 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/"
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "santo1530big"
+                ]
+            },
+            "height": 595,
+            "width": 400,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 13,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 25,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 50,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 149
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 298
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 595
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 400,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 595,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PD-Ms6828-69_p155"
+                ]
+            },
+            "height": 3952,
+            "width": 2417,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 76,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 152,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 303,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 605,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1209,
+                                                "height": 1976
+                                            },
+                                            {
+                                                "width": 2417,
+                                                "height": 3952
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2417,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3952,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/"
                         }
                     ]
                 }
