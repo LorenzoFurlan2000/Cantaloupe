@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203r/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n15fol203r"
+                ]
+            },
+            "height": 2000,
+            "width": 1312,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203r/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203r/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203r/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1312,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1312,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203r",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203r/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/",
             "type": "Canvas",
             "label": {
@@ -414,6 +495,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n15fol202v"
+                ]
+            },
+            "height": 2000,
+            "width": 1312,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202v/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1312,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1312,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202v",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202v/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ClervauxBibliothequedelAbbayeSaintMaurice7/canvas/",
             "type": "Canvas",
             "label": {
@@ -576,6 +738,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202r/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n15fol202r"
+                ]
+            },
+            "height": 2000,
+            "width": 1312,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202r/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202r/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202r/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1312,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1312,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202r",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol202r/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/",
             "type": "Canvas",
             "label": {
@@ -651,6 +894,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15ol201v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n15ol201v"
+                ]
+            },
+            "height": 2000,
+            "width": 1312,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15ol201v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15ol201v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15ol201v/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1312,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1312,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15ol201v",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15ol201v/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n15fol203v"
+                ]
+            },
+            "height": 2000,
+            "width": 1312,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203v/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 164,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 328,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 656,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 1312,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1312,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203v",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/n15fol203v/canvas/"
                         }
                     ]
                 }
