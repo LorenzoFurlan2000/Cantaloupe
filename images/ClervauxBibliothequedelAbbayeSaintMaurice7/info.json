@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 144,
+    "height" : 100
+  }, {
+    "width" : 288,
+    "height" : 200
+  }, {
+    "width" : 576,
+    "height" : 399
+  }, {
+    "width" : 1152,
+    "height" : 797
+  }, {
+    "width" : 2303,
+    "height" : 1594
+  }, {
+    "width" : 4606,
+    "height" : 3188
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4606,
+  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ClervauxBibliothequedelAbbayeSaintMaurice7",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3188
+}
