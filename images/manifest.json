@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p95/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p95"
+                ]
+            },
+            "height": 5558,
+            "width": 4260,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p95/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p95/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p95/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 134,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 267,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 533,
+                                                "height": 695
+                                            },
+                                            {
+                                                "width": 1065,
+                                                "height": 1390
+                                            },
+                                            {
+                                                "width": 2130,
+                                                "height": 2779
+                                            },
+                                            {
+                                                "width": 4260,
+                                                "height": 5558
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4260,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p95",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5558
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p95/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p85/canvas/",
             "type": "Canvas",
             "label": {
@@ -171,6 +252,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p89/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p89"
+                ]
+            },
+            "height": 5558,
+            "width": 4241,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p89/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p89/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p89/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 133,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 266,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 531,
+                                                "height": 695
+                                            },
+                                            {
+                                                "width": 1061,
+                                                "height": 1390
+                                            },
+                                            {
+                                                "width": 2121,
+                                                "height": 2779
+                                            },
+                                            {
+                                                "width": 4241,
+                                                "height": 5558
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4241,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p89",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5558
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p89/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570421p68/canvas/",
             "type": "Canvas",
             "label": {
@@ -327,6 +489,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p87/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p92/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p92"
+                ]
+            },
+            "height": 5478,
+            "width": 4354,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p92/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p92/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p92/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 137,
+                                                "height": 172
+                                            },
+                                            {
+                                                "width": 273,
+                                                "height": 343
+                                            },
+                                            {
+                                                "width": 545,
+                                                "height": 685
+                                            },
+                                            {
+                                                "width": 1089,
+                                                "height": 1370
+                                            },
+                                            {
+                                                "width": 2177,
+                                                "height": 2739
+                                            },
+                                            {
+                                                "width": 4354,
+                                                "height": 5478
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4354,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p92",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5478
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p92/canvas/"
                         }
                     ]
                 }
@@ -576,6 +819,249 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p93/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p93"
+                ]
+            },
+            "height": 5537,
+            "width": 4259,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p93/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p93/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p93/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 134,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 267,
+                                                "height": 347
+                                            },
+                                            {
+                                                "width": 533,
+                                                "height": 693
+                                            },
+                                            {
+                                                "width": 1065,
+                                                "height": 1385
+                                            },
+                                            {
+                                                "width": 2130,
+                                                "height": 2769
+                                            },
+                                            {
+                                                "width": 4259,
+                                                "height": 5537
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4259,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p93",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5537
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p93/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p94/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p94"
+                ]
+            },
+            "height": 5558,
+            "width": 4409,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p94/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p94/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p94/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 138,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 276,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 552,
+                                                "height": 695
+                                            },
+                                            {
+                                                "width": 1103,
+                                                "height": 1390
+                                            },
+                                            {
+                                                "width": 2205,
+                                                "height": 2779
+                                            },
+                                            {
+                                                "width": 4409,
+                                                "height": 5558
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4409,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p94",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5558
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p94/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p91/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p91"
+                ]
+            },
+            "height": 5566,
+            "width": 4270,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p91/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p91/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p91/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 134,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 267,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 534,
+                                                "height": 696
+                                            },
+                                            {
+                                                "width": 1068,
+                                                "height": 1392
+                                            },
+                                            {
+                                                "width": 2135,
+                                                "height": 2783
+                                            },
+                                            {
+                                                "width": 4270,
+                                                "height": 5566
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4270,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p91",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5566
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p91/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570421p76/canvas/",
             "type": "Canvas",
             "label": {
@@ -738,6 +1224,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p90"
+                ]
+            },
+            "height": 5566,
+            "width": 4408,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 138,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 276,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 551,
+                                                "height": 696
+                                            },
+                                            {
+                                                "width": 1102,
+                                                "height": 1392
+                                            },
+                                            {
+                                                "width": 2204,
+                                                "height": 2783
+                                            },
+                                            {
+                                                "width": 4408,
+                                                "height": 5566
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4408,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5566
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570421p74/canvas/",
             "type": "Canvas",
             "label": {
@@ -813,6 +1380,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570421p74/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p96/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Pungolo18570502p96"
+                ]
+            },
+            "height": 5572,
+            "width": 4391,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p96/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p96/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p96/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 138,
+                                                "height": 175
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 349
+                                            },
+                                            {
+                                                "width": 549,
+                                                "height": 697
+                                            },
+                                            {
+                                                "width": 1098,
+                                                "height": 1393
+                                            },
+                                            {
+                                                "width": 2196,
+                                                "height": 2786
+                                            },
+                                            {
+                                                "width": 4391,
+                                                "height": 5572
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4391,
+                                        "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p96",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5572
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p96/canvas/"
                         }
                     ]
                 }
