@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 137,
+    "height" : 175
+  }, {
+    "width" : 274,
+    "height" : 349
+  }, {
+    "width" : 547,
+    "height" : 698
+  }, {
+    "width" : 1094,
+    "height" : 1395
+  }, {
+    "width" : 2187,
+    "height" : 2790
+  }, {
+    "width" : 4373,
+    "height" : 5580
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4373,
+  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570421p76",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5580
+}
