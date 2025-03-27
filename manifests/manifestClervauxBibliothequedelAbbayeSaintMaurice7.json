@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6502f38b-b13d-428c-b218-951eba2b3e60",
+	"@type": "sc:Manifest",
+	"label": "ClervauxBibliothequedelAbbayeSaintMaurice7",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://58b4f4d9-8ae2-4803-bf07-b65174b06d4b",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://df91623c-2bfb-4fbb-ad3d-3173d4c4c827",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3188,
+					"width": 4606,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1a97c263-c931-4573-ab69-96508ac4690b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ClervauxBibliothequedelAbbayeSaintMaurice7/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ClervauxBibliothequedelAbbayeSaintMaurice7",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3188,
+								"width": 4606
+							},
+							"on": "http://df91623c-2bfb-4fbb-ad3d-3173d4c4c827"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
