@@ -252,6 +252,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001"
+                ]
+            },
+            "height": 1755,
+            "width": 1240,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 55
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 110
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 220
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 439
+                                            },
+                                            {
+                                                "width": 620,
+                                                "height": 878
+                                            },
+                                            {
+                                                "width": 1240,
+                                                "height": 1755
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1240,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1755,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/WiBi_Tr_Hs_1178_0480_4_DS_f_102r/canvas/",
             "type": "Canvas",
             "label": {
@@ -3411,6 +3492,87 @@
             ]
         },
         {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003"
+                ]
+            },
+            "height": 1755,
+            "width": 1240,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 55
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 110
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 220
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 439
+                                            },
+                                            {
+                                                "width": 620,
+                                                "height": 878
+                                            },
+                                            {
+                                                "width": 1240,
+                                                "height": 1755
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1240,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1755,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570502p90/canvas/",
             "type": "Canvas",
             "label": {
@@ -3648,6 +3810,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/Pungolo18570509p104/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004"
+                ]
+            },
+            "height": 1755,
+            "width": 1240,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 55
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 110
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 220
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 439
+                                            },
+                                            {
+                                                "width": 620,
+                                                "height": 878
+                                            },
+                                            {
+                                                "width": 1240,
+                                                "height": 1755
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1240,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1755,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004/canvas/"
                         }
                     ]
                 }
@@ -4458,6 +4701,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/WiBi_Tr_Hs_1144_0466_4_DS_f_227r/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002"
+                ]
+            },
+            "height": 1755,
+            "width": 1240,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 39,
+                                                "height": 55
+                                            },
+                                            {
+                                                "width": 78,
+                                                "height": 110
+                                            },
+                                            {
+                                                "width": 155,
+                                                "height": 220
+                                            },
+                                            {
+                                                "width": 310,
+                                                "height": 439
+                                            },
+                                            {
+                                                "width": 620,
+                                                "height": 878
+                                            },
+                                            {
+                                                "width": 1240,
+                                                "height": 1755
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1240,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1755,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002/canvas/"
                         }
                     ]
                 }
