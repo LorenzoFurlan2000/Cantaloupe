@@ -24,9 +24,10 @@
     "width" : 2705,
     "height" : 3833
   } ],
-  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "profile" : "level0",
   "width" : 2705,
-  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/p",
-  "@context" : "http://iiif.io/api/image/2/context.json",
+  "id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/p",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
   "height" : 3833
 }
