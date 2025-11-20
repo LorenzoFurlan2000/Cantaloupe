@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 88,
+    "height" : 123
+  }, {
+    "width" : 176,
+    "height" : 246
+  }, {
+    "width" : 352,
+    "height" : 492
+  }, {
+    "width" : 704,
+    "height" : 984
+  }, {
+    "width" : 1408,
+    "height" : 1967
+  }, {
+    "width" : 2816,
+    "height" : 3934
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2816,
+  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/p252",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3934
+}
